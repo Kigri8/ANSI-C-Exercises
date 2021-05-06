@@ -1,0 +1,17 @@
+El usuario <Kigri> con el pin <1> debe entrar a las: 7:00 debe trabajar durante <10 segundos> los dias:
+Lunes Miercoles Viernes 
+
+El usuario <Alex> con el pin <2> debe entrar a las: 8:40 debe trabajar durante <15 segundos> los dias:
+Domingo Lunes Martes Miercoles 
+
+El usuario <Felix> con el pin <3> debe entrar a las: 10:00 debe trabajar durante <20 segundos> los dias:
+Domingo Jueves Viernes 
+
+El usuario <Oliver> con el pin <4> debe entrar a las: 16:40 debe trabajar durante <25 segundos> los dias:
+Martes Jueves Sabado 
+
+El usuario <RM> con el pin <5> debe entrar a las: 20:40 debe trabajar durante <18 segundos> los dias:
+Viernes Sabado 
+
+El usuario <Balderik> con el pin <6> debe entrar a las: 12:00 debe trabajar durante <13 segundos> los dias:
+Lunes Martes Miercoles Jueves Viernes 
