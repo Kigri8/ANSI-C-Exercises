@@ -48,7 +48,6 @@ void welcome () {
 }
 
 void showMenu () {
-// Output the menu to the user.
 
     cout << "\n\n\t\tSelect one of the following options:\n"
          << "\t\t------------------------------------\n\n"
