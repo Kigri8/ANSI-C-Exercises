@@ -12,10 +12,10 @@ A program to register the prices of the different services (hairstyle, makeup an
 ### The idea is to be able to organize appointments and prices in a useful program for the salon so:
 * The salon is open from Monday to Friday from 10:00 am to 7:00 pm on the last appointment.
 * The person requesting an appointment will know how he/she has to get to the salon that day in order to have everything ready, and the appointment will be scheduled with the following data:
-1. Name of the customer (first and last name)
+1. Customer name
 2. Required service
 3. Date
 4. Hour
 
-
-# Link: https://youtu.be/r8za5z5fR0I
+# Link Beauty Salon Schedule: 
+### Link Beauty Salon App: https://youtu.be/r8za5z5fR0I
