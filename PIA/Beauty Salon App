@@ -1,9 +1,9 @@
 #include <iostream>
-#include <conio.h>
 #include <fstream>
 #include <iomanip>
 #include <string>
 #include <stdlib.h>
+#include <stdio.h>
 
 using namespace std;
 
@@ -81,7 +81,7 @@ void printPrices (string treatments, unsigned short prices[]) {
     for (unsigned short i = 0; i < numComponents; i++) {
       cout << setw (50) << setiosflags(ios::left) << treatments[i] << prices[i] << "\n";
     if (i% 20 == 0 && i != 0)
-         getch ();
+         cin.get();
       }
 
     }
