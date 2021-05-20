@@ -17,5 +17,5 @@ A program to register the prices of the different services (hairstyle, makeup an
 3. Date
 4. Hour
 
-# Link Beauty Salon Schedule: 
+# Link Beauty Salon Schedule: https://youtu.be/OByfdP9-Nws
 ### Link Beauty Salon App: https://youtu.be/r8za5z5fR0I
